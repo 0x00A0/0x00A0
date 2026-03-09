@@ -36,4 +36,3 @@ Here are some ideas to get you started:
 
 ![My vatsim indicator](https://my.vatsim.net/indicators/1897662)
 
-<iframe align="top" frameborder="0" height="500" scrolling="yes" src="https://logbook.qrz.com/lbstat/SA0WXR/" width="640"></iframe>
