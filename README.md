@@ -36,19 +36,3 @@ Here are some ideas to get you started:
 
 ![My vatsim indicator](https://my.vatsim.net/indicators/1897662)
 
-
----
-
-```txt
-0x00A0.log
-status     Master student, still compiling
-stack      Code, games, languages, simulated skies
-debugging  Usually responsible, occasionally innocent
-frequency  See you somewhere between GitHub and VATSIM
-```
-
-<p>
-  <a href="https://github.com/0x00A0?tab=repositories">repositories</a>
-  ·
-  <a href="https://vatsim.net/">VATSIM</a>
-</p>
