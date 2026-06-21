@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 
 ---
 
+... also I am an active ham radio operator on HF with callsign `SA0WXR` , check my QSL cards and logbook [here](https://www.qrz.com/db/SA0WXR)
+
+---
+
 ... also I drive planes and control pilots on [VATSIM](https://vatsim.net/)
 
 ![My vatsim indicator](https://my.vatsim.net/indicators/1897662)
